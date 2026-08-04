@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Backend Developer",
+    "company": "Stripe",
+    "badge": "Fresher",
+    "location": "San Francisco, CA, USA",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Stripe as a Backend Developer. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/stripe.com",
+    "applyUrl": "https://stripe.com/jobs"
+  },
+  {
+    "title": "DevOps Specialist",
+    "company": "Clerk",
+    "badge": "",
+    "location": "New York, NY, USA",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Clerk as a DevOps Specialist. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/clerk.com",
+    "applyUrl": "https://clerk.com/careers"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Supabase",
+    "badge": "",
+    "location": "Bengaluru, India",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Supabase as a Frontend Developer. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/supabase.com",
+    "applyUrl": "https://supabase.com/careers"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Vercel",
+    "badge": "Fresher",
+    "location": "Bengaluru, India",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Vercel as a QA Engineer. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png",
+    "applyUrl": "https://vercel.com/careers"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Resend",
+    "badge": "Fresher",
+    "location": "Bengaluru, India",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Resend as a Security Analyst. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/resend.com",
+    "applyUrl": "https://resend.com/careers"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Tide",
+    "badge": "Fresher",
+    "location": "Pune, India",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Tide as a QA Engineer. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/tide.co",
+    "applyUrl": "https://tide.com/careers"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Retool",
+    "badge": "",
+    "location": "San Francisco, CA, USA",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Retool as a Data Analyst. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/retool.com",
+    "applyUrl": "https://retool.com/careers"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Appsmith",
+    "badge": "Fresher",
+    "location": "San Francisco, CA, USA",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Appsmith as a Frontend Developer. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/appsmith.com",
+    "applyUrl": "https://appsmith.com/careers"
+  },
+  {
+    "title": "DevOps Specialist",
+    "company": "Snowflake",
+    "badge": "Fresher",
+    "location": "San Francisco, CA, USA",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Snowflake as a DevOps Specialist. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/snowflake.com",
+    "applyUrl": "https://snowflake.com/careers"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Databricks",
+    "badge": "",
+    "location": "New York, NY, USA",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join Databricks as a Security Analyst. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/databricks.com",
+    "applyUrl": "https://databricks.com/careers"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "PostHog",
+    "badge": "Remote",
+    "location": "Remote Global",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join PostHog as a QA Engineer. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/posthog.com",
+    "applyUrl": "https://posthog.com/careers"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "LangChain",
+    "badge": "Fresher",
+    "location": "Pune, India",
+    "salary": "$80,000 - $110,000 / year",
+    "description": "Automates Pipeline Error. Join LangChain as a Data Analyst. Work with senior engineers on scaling web services, cloud security, and product...",
+    "logo": "https://logo.clearbit.com/langchain.com",
+    "applyUrl": "https://langchain.com/careers"
+  }
+]
