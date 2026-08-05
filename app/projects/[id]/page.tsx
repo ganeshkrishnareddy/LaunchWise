@@ -4,11 +4,7 @@ import { projectsData } from '@/data/projects';
 import { notFound } from 'next/navigation';
 import { ProjectPageClient } from './ProjectPageClient';
 
-export function generateStaticParams() {
-    return projectsData.map((project) => ({
-        id: project.id,
-    }));
-}
+export const runtime = 'edge';
 
 export default async function ProjectDetailsPage({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;

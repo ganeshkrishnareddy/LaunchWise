@@ -3,11 +3,7 @@ import { roadmaps } from '@/data/roadmaps';
 import { notFound } from 'next/navigation';
 import { RoadmapContent } from './RoadmapContent';
 
-export function generateStaticParams() {
-    return roadmaps.map((roadmap) => ({
-        id: roadmap.id,
-    }));
-}
+export const runtime = 'edge';
 
 interface Props {
     params: Promise<{ id: string }>;

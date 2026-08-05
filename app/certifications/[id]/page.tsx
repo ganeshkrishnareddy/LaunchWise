@@ -5,11 +5,7 @@ import { notFound } from 'next/navigation';
 import { ExternalLink, CheckCircle2, ChevronRight, Clock, DollarSign, BookOpen, Star } from 'lucide-react';
 import Link from 'next/link';
 
-export function generateStaticParams() {
-    return certificationsData.map((cert) => ({
-        id: cert.id,
-    }));
-}
+export const runtime = 'edge';
 
 export default async function CertificationDetailsPage({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;

@@ -5,6 +5,8 @@ import Link from 'next/link';
 import { CompanyLogo } from '@/components/ui/CompanyLogo';
 import offersData from '@/data/offers.json';
 
+export const runtime = 'edge';
+
 export default function SinglePerkPage({ params }: { params: { slug: string } }) {
   const offer = offersData.find(o => o.id === params.slug);
 
