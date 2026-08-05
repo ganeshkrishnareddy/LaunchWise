@@ -33,7 +33,7 @@ export function OfferCard({ company, title, description, tags, url, iconUrl, sav
           <div className="min-w-0 flex-1">
             <h3 className="font-bold text-base sm:text-lg text-slate-900 leading-tight flex items-center gap-1.5 min-w-0">
               <span className="truncate">{company.replace('Student Offers', '')}</span>
-              <CheckCircle2 className="w-4 h-4 text-green-500 shrink-0" title="Verified" />
+              <span title="Verified"><CheckCircle2 className="w-4 h-4 text-green-500 shrink-0" /></span>
             </h3>
           </div>
         </div>

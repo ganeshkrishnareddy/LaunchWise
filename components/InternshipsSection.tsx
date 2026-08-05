@@ -6,9 +6,9 @@ import { GraduationCap, Calendar, Clock } from "lucide-react";
 
 export function InternshipsSection() {
   const internships = [
-    { title: "Summer 2026 AI Research Intern", company: "OpenAI", duration: "12 Weeks", deadline: "Dec 15", tags: ["Research"], logo: "https://logo.clearbit.com/openai.com" },
-    { title: "Software Engineering Intern", company: "Apple", duration: "16 Weeks", deadline: "Jan 1", tags: ["Hardware/Software"], logo: "https://logo.clearbit.com/apple.com" },
-    { title: "Design Engineering Intern", company: "Framer", duration: "12 Weeks", deadline: "Rolling", tags: ["Design"], logo: "https://logo.clearbit.com/framer.com" },
+    { title: "Summer 2026 AI Research Intern", company: "OpenAI", duration: "12 Weeks", deadline: "Dec 15", tags: ["Research"], logo: "https://logo.clearbit.com/openai.com", stipend: "$10,000/mo" },
+    { title: "Software Engineering Intern", company: "Apple", duration: "16 Weeks", deadline: "Jan 1", tags: ["Hardware/Software"], logo: "https://logo.clearbit.com/apple.com", stipend: "$8,500/mo" },
+    { title: "Design Engineering Intern", company: "Framer", duration: "12 Weeks", deadline: "Rolling", tags: ["Design"], logo: "https://logo.clearbit.com/framer.com", stipend: "$7,000/mo" },
   ];
 
   return (
