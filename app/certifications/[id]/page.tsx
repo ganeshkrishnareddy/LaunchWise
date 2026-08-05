@@ -7,8 +7,8 @@ import Link from 'next/link';
 
 export const runtime = 'edge';
 
-export default async function CertificationDetailsPage({ params }: { params: Promise<{ id: string }> }) {
-    const { id } = await params;
+export default function CertificationDetailsPage({ params }: { params: { id: string } }) {
+    const { id } = params;
     const cert = certificationsData.find(c => c.id === id);
 
     if (!cert) {

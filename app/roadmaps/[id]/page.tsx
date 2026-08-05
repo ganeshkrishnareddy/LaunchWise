@@ -6,11 +6,11 @@ import { RoadmapContent } from './RoadmapContent';
 export const runtime = 'edge';
 
 interface Props {
-    params: Promise<{ id: string }>;
+    params: { id: string };
 }
 
-export default async function RoadmapDetailPage({ params }: Props) {
-    const { id } = await params;
+export default function RoadmapDetailPage({ params }: Props) {
+    const { id } = params;
     const roadmap = roadmaps.find((r) => r.id === id);
 
     if (!roadmap) {

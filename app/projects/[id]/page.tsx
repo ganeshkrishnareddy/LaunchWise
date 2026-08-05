@@ -6,8 +6,8 @@ import { ProjectPageClient } from './ProjectPageClient';
 
 export const runtime = 'edge';
 
-export default async function ProjectDetailsPage({ params }: { params: Promise<{ id: string }> }) {
-    const { id } = await params;
+export default function ProjectDetailsPage({ params }: { params: { id: string } }) {
+    const { id } = params;
     const project = projectsData.find(p => p.id === id);
 
     if (!project) {
